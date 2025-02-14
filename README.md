@@ -1,4 +1,4 @@
-# Sales-Performance-Dashboard
+# Sales-Performance-Excel -Dashboard
 This repository contains an Excel-based Sales Performance Dashboard that provides insights into sales trends, revenue, and key performance indicators. The dashboard leverages various Excel formulas and visualizations to analyze and present data effectively.
 ## Overview
 This repository contains an interactive **Sales Performance Dashboard** created in Excel. The dashboard provides detailed insights into sales data, helping businesses track performance, identify trends, and make data-driven decisions.
